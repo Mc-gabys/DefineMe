@@ -13,3 +13,6 @@ Préparé spécialement en vue du brevet blanc, ce logiciel permet de s'entra
 ✅ Vérification intelligente des réponses
 ✅ Ajustement de la difficulté
 ✅ Interface simple et efficace
+✅ Choix des chapitres (si disponible)
+
+❓ Un problème ? Ouvrez un "issue" ou contactez moi via the.mcgabys@gmail.com
